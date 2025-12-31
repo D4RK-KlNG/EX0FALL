@@ -1,0 +1,18 @@
+{
+  "name": "ex0fall",
+  "version": "1.0.0",
+  "description": "EX0FALL WhatsApp Bot | Developer DARKKING",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "DARKKING",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "pino": "^8.15.0",
+    "axios": "^1.6.0",
+    "awesome-phonenumber": "^5.10.0"
+  }
+}
